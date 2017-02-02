@@ -1,0 +1,22 @@
+{
+  "name": "mep-utilities.weight",
+  "version": "1.0.0",
+  "description": "Weight Utility",
+  "main": "stylesheets/_utility-weight.scss",
+  "eyeglass": {
+    "needs": "^1.0.0",
+    "name": "utility-weight",
+    "exports": "eyeglass-exports.js"
+  },
+  "keywords": [
+    "eyeglass-module",
+    "sass",
+    "mise-en-place"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mise-en-place/utilities.weight.git"
+  },
+  "author": "Kind",
+  "license": "MIT"
+}
