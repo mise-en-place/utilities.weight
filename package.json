@@ -18,5 +18,9 @@
     "url": "https://github.com/mise-en-place/utilities.weight.git"
   },
   "author": "Kind",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mep-tools.type-config": "github:mise-en-place/tools.type-config",
+    "mep-tools.font-scale": "github:mise-en-place/tools.font-scale"
+  }
 }
