@@ -14,7 +14,7 @@
   "author": "Kind",
   "license": "MIT",
   "dependencies": {
-    "mep-tools.type-config": "github:mise-en-place/tools.type-config",
-    "mep-tools.font-scale": "github:mise-en-place/tools.font-scale"
+    "@mise-en-place/tools.type-config": "~3.0.0",
+    "@mise-en-place/tools.font-scale": "~3.0.0"
   }
 }
