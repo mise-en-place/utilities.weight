@@ -1,6 +1,6 @@
 {
   "name": "@mise-en-place/utilities.weight",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Weight Utility",
   "main": "stylesheets/_utility-weight.scss",
   "keywords": [
