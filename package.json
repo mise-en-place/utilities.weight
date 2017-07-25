@@ -1,6 +1,6 @@
 {
-  "name": "mep-utilities.weight",
-  "version": "3.0.0",
+  "name": "@mise-en-place/utilities.weight",
+  "version": "2.0.0",
   "description": "Weight Utility",
   "main": "stylesheets/_utility-weight.scss",
   "keywords": [
